@@ -1,4 +1,3 @@
-from re import S
 from source.MatematicaFinanciera.Anualidades.anualidades import Anualidad as A 
 
 def test_error_arg():
