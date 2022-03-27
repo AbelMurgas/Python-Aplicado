@@ -1,4 +1,3 @@
-
 class Anualidad:
 
     def calcular_anualidad(tiempo_anual: float, periodo: int, interes_porcentual: float, valor_presente: float = 0, valor_futuro: float = 0) -> float:
